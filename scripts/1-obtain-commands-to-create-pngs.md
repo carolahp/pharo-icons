@@ -25,3 +25,12 @@ Smalltalk ui icons allIconNames sorted
     Transcript crShow:
         cmd1, iconName , cmd2 , width asString , cmd3 , height asString ].
 ```
+To try specific icons from their png files, use the following script:
+```
+theme := ThemeIcons current.
+
+iconName := #smallDebug.
+iconFile := ('/Users/caro/Documents/gitrepos/pharo-icons/png-16x16/', iconName, '.png') asFileReference.
+
+theme icons at: #smallDebug put: (theme readPNGFrom: iconFile).
+``
