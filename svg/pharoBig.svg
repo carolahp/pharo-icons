@@ -26,12 +26,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="6.1283337"
-     inkscape:cx="22.681533"
+     inkscape:cx="-3.3451181"
      inkscape:cy="11.911884"
      inkscape:window-width="1280"
      inkscape:window-height="430"
      inkscape:window-x="0"
-     inkscape:window-y="880"
+     inkscape:window-y="852"
      inkscape:window-maximized="0"
      inkscape:current-layer="Pharo" />
   <defs
@@ -117,6 +117,13 @@
        y2="0"
        spreadMethod="pad" />
   </defs>
+  <ellipse
+     style="fill:#ffffff;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stop-color:#000000;fill-opacity:1"
+     id="path436"
+     cx="16.154474"
+     cy="16.888767"
+     rx="14.522708"
+     ry="13.788412" />
   <g
      id="logo">
     <g
