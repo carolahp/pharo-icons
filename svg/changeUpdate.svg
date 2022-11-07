@@ -10,6 +10,9 @@
    xml:space="preserve"
    inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="changeUpdate.svg"
+   inkscape:export-filename="../png-scale1.0/changeUpdate.png"
+   inkscape:export-xdpi="48.000004"
+   inkscape:export-ydpi="48.000004"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +28,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="6.5732478"
-     inkscape:cx="4.7921516"
-     inkscape:cy="14.528587"
-     inkscape:window-width="1536"
-     inkscape:window-height="815"
+     inkscape:zoom="9.1075396"
+     inkscape:cx="18.061958"
+     inkscape:cy="22.453924"
+     inkscape:window-width="1280"
+     inkscape:window-height="747"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"><inkscape:grid
+     inkscape:current-layer="layer2"><inkscape:grid
        type="xygrid"
        id="grid739" /></sodipodi:namedview><defs
      id="defs2" /><g
@@ -41,26 +44,31 @@
      id="layer2"
      inkscape:label="new"><text
        xml:space="preserve"
-       style="font-weight:bold;font-size:9.55922px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#507d94;fill-opacity:0.983529;stroke:none;stroke-width:0.846774;stroke-linecap:square;stroke-dasharray:none;stop-color:#000000"
-       x="0.48470005"
-       y="6.4714136"
+       style="font-weight:bold;font-size:9.55922px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.677333px;fill:#507d94;fill-opacity:0.983529;stroke:none;stroke-width:0.846774;stroke-linecap:square;stroke-dasharray:none;stop-color:#000000"
+       x="-0.0045930683"
+       y="6.4025283"
        id="text4420"
        transform="scale(0.71579436,1.3970493)"><tspan
          sodipodi:role="line"
          id="tspan4418"
-         style="fill:#507d94;fill-opacity:0.983529;stroke-width:0.846774"
-         x="0.48470005"
-         y="6.4714136">&lt;&gt;</tspan></text></g><g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#507d94;fill-opacity:0.983529;stroke-width:0.846774"
+         x="-0.0045930683"
+         y="6.4025283">&lt;&gt;</tspan></text><text
+       xml:space="preserve"
+       style="font-size:81.139px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+       x="0.72452766"
+       y="-1.2880492"
+       id="text396"><tspan
+         sodipodi:role="line"
+         id="tspan394"
+         style="stroke-width:0"></tspan></text></g><g
      inkscape:label="old"
      inkscape:groupmode="layer"
      id="layer1"><image
        width="8.4666662"
        height="8.4666662"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAWElEQVR4XmP4//8/w38KMEWa4QYE
-1k7Fhv/jYMMxPgNAGjYj8TdjMwSXAeiacRqCzQBcmrEagm4AIc0YhiAbQKxmFEOo6gKqhAFVYoEq
-6YD0lDjwmYkSDAD7HCj73Sk2iwAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAWElEQVR4XmP4//8/w38KMEWa4QYE 1k7Fhv/jYMMxPgNAGjYj8TdjMwSXAeiacRqCzQBcmrEagm4AIc0YhiAbQKxmFEOo6gKqhAFVYoEq 6YD0lDjwmYkSDAD7HCj73Sk2iwAAAABJRU5ErkJggg== "
        id="image4383"
        x="0"
        y="0"
